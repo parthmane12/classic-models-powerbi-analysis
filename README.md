@@ -787,7 +787,7 @@ This project strengthened both my technical knowledge and my ability to communic
 ## Product Analysis (Drill-through)
 
 
-![Product Analysis](Images/Page2.png)
+![Product Analysis](Images/Page_2.png)
 
 
 ---
@@ -795,7 +795,7 @@ This project strengthened both my technical knowledge and my ability to communic
 ## Data Model
 
 
-![Data Model](Images/Modelview.png)
+![Data Model](Images/Model_view.png)
 
 
 ---
